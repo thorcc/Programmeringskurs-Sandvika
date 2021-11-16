@@ -2,7 +2,7 @@
 
 ## Lese fra fil
 
-- [Lese fra fil](lese-fra-fil.md)
+- [Lese fra fil](lese-fra-fil/lese-fra-fil.md)
 
 ## Datasett
 
