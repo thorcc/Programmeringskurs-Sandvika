@@ -1,6 +1,6 @@
-# Lesing fra fil
+# Lese fra fil
 
-Lesing fra fil i Python kan gjøres med den innebygde funksjonen `open("filsti")`.
+Lesing av filer i Python kan gjøres med den innebygde funksjonen `open("filsti")`.
 Mellom parentesene skrives stien til filen som skal leses inn, relativt til python-filen vi skriver i.
 Det betyr at hvis vi for eksempel skal lese inn en fil som ligger i samme mappe som python-filen vi skriver i, er filstien kun filnavnet på filen vi skal lese inn, for eksempel slik: `"badetemperaturer.csv"`.
 Og hvis filen vi skal lese inn ligger i en *undermappe*, skriver vi navnet på mappen skråstrek navnet på filen, for eksempel slik: `"datasett/kolsaastoppen_med_Eirik.csv"`.
