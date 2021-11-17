@@ -7,6 +7,10 @@
 ## Datasett
 
 - [kolsaastoppen-med-Eirik.csv](https://raw.githubusercontent.com/thorcc/Programmeringskurs-Sandvika/master/datasett/kolsaastoppen_med_Eirik.csv)
+- [boligpriser.csv](datasett/boligpriser.csv)
+- [insurance.csv](datasett/insurance.csv)
+- [valg.csv](datasett/valg.csv)
+- [corona-norge.csv](datasett/corona-norge.csv)
 
 ## Diverse
 
